@@ -1,0 +1,6 @@
+name: DvaVedraGavnA
+main: ru.MatrixWorld.zazacaca32.scam.Case.Main
+version: 1.4.8.8
+commands:
+  send:
+    description: test
